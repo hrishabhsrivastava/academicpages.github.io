@@ -12,7 +12,7 @@
 locale                   : "en-US"
 title                    : "Hrishabh"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hrishabh Srivastava"
 description              : &description "personal description"
 url                      : https://hrishabhsrivastava.github.io/forty-jekyll-theme # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
